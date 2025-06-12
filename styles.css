@@ -426,13 +426,13 @@
     height: 50%;
     background-color: rgb(20, 142, 14);
     display: flex;
+    align-items: center;
     justify-content: center;
     padding: 0 70px;
     gap: 100px;
 }
 .about-us-2-txt{
     font-size: 30px;
-    margin-top: 10%;
     color: white;
     width: 30%;
 }
