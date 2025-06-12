@@ -434,7 +434,7 @@
 .about-us-2-txt{
     font-size: 30px;
     color: white;
-    width: 30%;
+    flex: 1;
 }
 .about-us-2-txt p{
     margin-top: 25px;
